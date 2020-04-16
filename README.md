@@ -48,14 +48,6 @@ Extras:
 
 [Download para Android](https://github.com/ialexanderbrito/be-the-hero/releases/tag/1.0.0)
 
-### 🗃 Instalação de pacotes
-
-Nas pastas backend, frontend e mobile. Execute o comando:
-
-```sh
-npm install
-```
-
 ### 💻 Projeto
 
 <b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
@@ -87,7 +79,10 @@ Me acompanhe nas minhas redes sociais.
 <p align="center">
 
    <a href="https://github.com/ialexanderbrito" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
+    
+   <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
+     <img alt="Github" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter"></a> 
   
   <a href="https://instagram.com/ialexanderbrito" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
