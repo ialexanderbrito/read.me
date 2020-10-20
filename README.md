@@ -33,6 +33,13 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
   
+### 📱 Screen
+
+<h4 align="center">
+<img src="https://github.com/ialexanderbrito/marvel-app/blob/master/.github/01.png?raw=true" width="300px" /> 
+<img src="https://github.com/ialexanderbrito/marvel-app/blob/master/.github/01.png?raw=true" width="300px" /> 
+</h4>
+  
 ### 💻 Demo Web
 
 [Acesse o site](https://ialexanderbrito.com.br/)
@@ -80,7 +87,7 @@ $ cd ...
 $ cd ...
 
 # Instale as dependências
-$ npm install ou yarn add
+$ npm install ou yarn
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server ou yarn dev
@@ -101,7 +108,7 @@ $ cd ...
 $ cd ...
 
 # Instale as dependências
-$ npm install ou yarn add
+$ npm install ou yarn
 
 # Execute a aplicação
 $ npm start ou yarn start
@@ -122,12 +129,10 @@ $ cd ...
 $ cd ...
 
 # Instale as dependências
-$ npm install ou yarn add
+$ npm install ou yarn
 
 # Execute a aplicação
-$ expo start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+$ expo start ou yarn start
 ```
 
 ### :recycle: Como contribuir
@@ -152,27 +157,22 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 Me acompanhe nas minhas redes sociais.
 
 <p align="center">
-
-   <a href="https://github.com/ialexanderbrito" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=Github&logoColor=white"></a> 
-    
+  
  <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
   
   <a href="https://instagram.com/ialexanderbrito" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-  
-  <a href="https://facebook.com/ialexanderbrito" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a> 
 
   <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    
+  <a href="https://t.me/ialexanderbrito" target="_blank" >
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
   
   <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a> 
-  
-  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=WhatsApp&logoColor=white"></a>
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+    
 </p>
 
 ---
